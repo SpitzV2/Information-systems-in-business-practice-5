@@ -3,7 +3,7 @@ package ru.edu.pr02;
  * Вариант 2
  * Наш интервал часов в день от 0 до 15
  */
-/
+
 public class TimesheetAnalyzer {
     public static final int EXPECTED_DAYS_COUNT = 5;
     public static final int MIN_HOURS_PER_DAY = 0;
